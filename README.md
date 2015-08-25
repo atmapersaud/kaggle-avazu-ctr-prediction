@@ -1,1 +1,3 @@
-# kaggle-avazu-ctr-prediction
+### Competition Link:
+### Link to Data
+### Paper which describes algorithm
